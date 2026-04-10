@@ -1,1 +1,1 @@
-print("hello world! new version")
+print("hello world! new version, latest")
